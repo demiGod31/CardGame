@@ -1,0 +1,7 @@
+C:\Users\insind930\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\insind930\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\insind930\source\repos\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\insind930\source\repos\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\insind930\source\repos\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\insind930\source\repos\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\insind930\source\repos\CardGame\CardGame\obj\Debug\CardGame.pdb
